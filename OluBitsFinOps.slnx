@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/OlubitsFinOps.Api/OlubitsFinOps.Api.csproj" Id="e56537c3-5330-47bb-adc5-ca05247e2ffe" />
+  <Project Path="src/OluBitsFinOps.Application/OluBitsFinOps.Application.csproj" Id="9ea69319-7466-43a4-8ec4-87a4c1b9b429" />
+  <Project Path="src/oluBitsFinOps.Domain/oluBitsFinOps.Domain.csproj" Id="c41af55d-597e-4ef4-a23d-713b35431ed2" />
+  <Project Path="src/OluBitsFinOps.Infrastructure/OluBitsFinOps.Infrastructure.csproj" Id="eba55598-449c-4508-9e61-444578534729" />
+</Solution>

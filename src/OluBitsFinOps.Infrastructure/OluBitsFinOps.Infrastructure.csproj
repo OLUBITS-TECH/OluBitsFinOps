@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OluBitsFinOps.Application\OluBitsFinOps.Application.csproj" />
+    <ProjectReference Include="..\oluBitsFinOps.Domain\oluBitsFinOps.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
